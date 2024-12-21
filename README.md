@@ -26,3 +26,5 @@ By leveraging blockchain technology, this project aims to simplify collaboration
 2. **Recording Contributions**: Contributors’ work is logged with a specified contribution amount.
 3. **Claiming Rewards**: Contributors can calculate and claim their share of rewards proportionate to their contributions.
 4. **Funds Management**: Any remaining balance can be withdrawn by the owner.
+
+![image](https://github.com/user-attachments/assets/1d78c902-7f81-46af-afc4-aaffcbb5023e)
